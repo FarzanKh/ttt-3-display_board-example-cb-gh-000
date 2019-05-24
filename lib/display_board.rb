@@ -6,6 +6,7 @@ def display_board
   
   3.times do
     puts "|   |"
+  end
   
   2.times do
     puts "-----------"
